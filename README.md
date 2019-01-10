@@ -5,6 +5,6 @@
 4. Start .exe
 5. Enjoy!
 
-#Creator
+##Creator
 Creator: Ripple
 Discord: ripple#1337
