@@ -6,5 +6,6 @@
 5. Enjoy!
 
 ## Creator
-Creator: Ripple
-Discord: ripple#1337
+1. Creator: Ripple
+2. Discord: ripple#1337
+3. Our server "Russian Development" in Discord: https://discord.gg/PuhE99M
