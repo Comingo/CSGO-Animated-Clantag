@@ -1,0 +1,4 @@
+﻿  memory.cpp
+c:\users\devel\desktop\барахло\chatspam\project2\memory.cpp(93): warning C4018: <: несоответствие типов со знаком и без знака
+  Project2.vcxproj -> C:\Users\devel\Desktop\барахло\chatspam\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\devel\Desktop\барахло\chatspam\Debug\Project2.pdb (Partial PDB)
